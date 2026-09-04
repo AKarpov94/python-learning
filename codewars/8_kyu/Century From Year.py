@@ -4,4 +4,4 @@ def century(year):
     else:
         return year//100 + 1
 #def century(year):
-    return (year + 99) // 100
+#   return (year + 99) // 100
