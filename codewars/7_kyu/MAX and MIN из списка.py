@@ -3,7 +3,9 @@ def min_max(lst):
     a.append(min(lst))
     a.append(max(lst))
     return (a)
-print(min_max([1,2,3,4,5]))
+print(min_max([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]))
+
+
 
 #def min_max(lst):
 #  return [min(lst), max(lst)]

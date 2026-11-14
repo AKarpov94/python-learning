@@ -1,5 +1,8 @@
-def a(lst):
-    return [max(lst), min(lst)]
-print(a([1,2,3,4,5,6]))
-
-
+data = set('hello')
+print(data)
+data.add(1)
+print(data)
+data.pop()
+print(data)
+data.remove('o')
+print(data)
